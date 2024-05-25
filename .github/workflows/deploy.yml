@@ -32,9 +32,7 @@ jobs:
     # Deploy to the github_pages environment
     environment:
       name: github_pages
-      env:
-        NUXT_APP_BASE_URL: ${{ vars.NUXT_APP_BASE_URL  }}
-
+      url: ${{ steps.deployment.outputs.page_url }}
     # Specify runner + deployment step
     runs-on: ubuntu-latest
     steps:
