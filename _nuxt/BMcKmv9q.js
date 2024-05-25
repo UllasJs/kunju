@@ -1,1 +1,0 @@
-import{_ as t,v as s,t as c,x as e}from"./BiK9d46k.js";const o={},n={class:"content"},_=e("section",{class:"hero-section"},[e("div",null," test1 "),e("div",null," test2 ")],-1),a=[_];function r(i,d){return c(),s("div",n,a)}const f=t(o,[["render",r]]);export{f as default};
