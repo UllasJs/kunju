@@ -2,10 +2,10 @@
     <div class="content">
         <section class="hero-section">
             <div>
-                test1
+                update
             </div>
             <div>
-                test2
+                world
             </div>
         </section>
     </div>
